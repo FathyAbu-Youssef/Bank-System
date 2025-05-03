@@ -1,4 +1,4 @@
-# 🏦 Bank Management System – C++
+# 🏦 Bank System – C++
 
 This is a console-based Bank Management System built using **Object-Oriented Programming (OOP)** in C++.
 It simulates basic banking operations and user management through a set of modular header files and a structured design.
