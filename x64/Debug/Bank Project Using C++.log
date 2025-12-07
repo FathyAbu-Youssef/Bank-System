@@ -1,0 +1,32 @@
+﻿  Bank Project Using C++.cpp
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsString.h(48,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsString.h(53,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsString.h(65,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsString.h(202,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsString.h(333,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsString.h(381,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsUser.h(201,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsUser.h(26,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(209,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(152,12): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(423,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(436,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsTransferScreen.h(43,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsTransferScreen.h(48,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsCurrencyCaculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(378): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsBankClient.h(440): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\clsUser.h(362): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank Project Using C++.vcxproj -> C:\Users\fathy mohamed\Downloads\BankingSystem-CLone\Bank-System\x64\Debug\Bank Project Using C++.exe

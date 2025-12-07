@@ -410,7 +410,6 @@ public:
             return true;
         else
             return false;
-
     }
 
 
@@ -426,7 +425,6 @@ public:
         {
 
             MyFile << stDataLine << endl;
-
             MyFile.close();
         }
 
